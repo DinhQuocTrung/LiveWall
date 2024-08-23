@@ -1,0 +1,1 @@
+python C:\Users\admin\Desktop\Live_wallpaper\main.py
